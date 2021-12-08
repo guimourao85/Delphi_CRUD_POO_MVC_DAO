@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/23 19:43:29.000.037,=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 18:43:22.000.066,=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 20:23:32.000.970,C:\Users\guilh\Desktop\WkTechnology\testetecnico\uMain.dfm=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/06 20:23:32.000.970,C:\Users\guilh\Desktop\WkTechnology\testetecnico\uMain.pas=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 20:23:41.000.676,C:\Users\guilh\Desktop\WkTechnology\testetecnico\pTesteTecnico.dproj=C:\Users\guilh\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/06 20:27:24.000.678,C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedidoDadosGerais.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\uMain.pas</Transaction>
+    <Transaction>2021/12/06 20:27:24.000.678,C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedidoDadosGerais.dfm=C:\Users\guilh\Desktop\WkTechnology\testetecnico\uMain.dfm</Transaction>
+    <Transaction>2021/12/06 20:27:34.000.315,C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedido.dfm=C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedidoDadosGerais.dfm</Transaction>
+    <Transaction>2021/12/06 20:27:34.000.315,C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedido.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedidoDadosGerais.pas</Transaction>
+    <Transaction>2021/12/06 22:27:05.000.099,C:\Users\guilh\Desktop\WkTechnology\testetecnico\view\uViewPedido.dfm=C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedido.dfm</Transaction>
+    <Transaction>2021/12/06 22:27:05.000.099,C:\Users\guilh\Desktop\WkTechnology\testetecnico\view\uViewPedido.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\View\uViewPedido.pas</Transaction>
+    <Transaction>2021/12/06 22:46:16.000.067,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 22:47:06.000.681,C:\Users\guilh\Desktop\WkTechnology\testetecnico\model\uPedidosDadosGeraisModel.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 23:02:36.000.291,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 23:03:17.000.376,C:\Users\guilh\Desktop\WkTechnology\testetecnico\controller\uPedidosDadosGeraisController.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 23:17:06.000.194,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 23:17:21.000.592,C:\Users\guilh\Desktop\WkTechnology\testetecnico\dao\uDmConexao.dfm=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.dfm</Transaction>
+    <Transaction>2021/12/06 23:17:21.000.592,C:\Users\guilh\Desktop\WkTechnology\testetecnico\dao\uDmConexao.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 09:48:47.000.990,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 10:16:23.000.792,C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\dao\uDmPedidos.pas</Transaction>
+    <Transaction>2021/12/07 10:16:23.000.792,C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.dfm=C:\Users\guilh\Desktop\WkTechnology\testetecnico\dao\uDmPedidos.dfm</Transaction>
+    <Transaction>2021/12/07 21:25:32.454,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 21:33:43.112,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 21:37:25.746,C:\Users\guilh\Desktop\WkTechnology\testetecnico\model\uPedidosProdutosModel.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 21:42:40.314,=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 21:45:32.754,C:\Users\guilh\Desktop\WkTechnology\testetecnico\dao\uDmPedidosProdutos.pas=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.pas</Transaction>
+    <Transaction>2021/12/07 21:45:32.754,C:\Users\guilh\Desktop\WkTechnology\testetecnico\dao\uDmPedidosProdutos.dfm=C:\Users\guilh\Desktop\WkTechnology\testetecnico\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
